@@ -1,4 +1,6 @@
 # hard-rock-solution
+[hard-rock live link](https://ishtiaqahammed97.github.io/hard-rock/)
+
 ### Search Song
 api link: https://api.lyrics.ovh/suggest/:searchText
 
